@@ -1,0 +1,23 @@
+{
+  "name": "rpa_excel",
+  "version": "1.0.0",
+  "description": "Automatizando dados no e do excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroalpacheco/RPA_EXCEL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroalpacheco/RPA_EXCEL/issues"
+  },
+  "homepage": "https://github.com/pedroalpacheco/RPA_EXCEL#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
