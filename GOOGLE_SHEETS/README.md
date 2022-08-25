@@ -76,6 +76,9 @@ $ npm install
 # Run the project
 $ npm start
 
+
+```
+
 ## Autor
 
 - [@pedropachecodev](https://github.com/pedroalpacheco)

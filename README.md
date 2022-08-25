@@ -55,6 +55,8 @@ Este projeto faz parte do curso de automações de navegadores da Comunidade Web
 The following tools were used in this project:
 
 - [Node.js](https://nodejs.org/en/)
+- [xlsx](https://www.npmjs.com/package/xlsx)
+- [sqlite3](https://www.npmjs.com/package/sqlite3)
 - [googleapis](https://www.npmjs.com/package/googleapis)
 
 ## :white_check_mark: Requirements ##
@@ -75,6 +77,8 @@ $ npm install
 
 # Run the project
 $ npm start
+
+```
 
 ## Autor
 
