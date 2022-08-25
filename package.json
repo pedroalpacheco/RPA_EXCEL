@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/pedroalpacheco/RPA_EXCEL#readme",
   "dependencies": {
+    "sqlite3": "^5.0.11",
     "xlsx": "^0.18.5"
   }
 }
