@@ -6,7 +6,7 @@
   <!-- <a href="https://rpa_excel.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Rpa_excel</h1>
+<h1 align="center">Rpa_GOOGLE-SHEETS</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/pedroalpacheco/rpa_excel?color=56BEB8">
@@ -45,7 +45,7 @@
 
 ## :dart: About ##
 
-RPA - Robotic Process Automation de dados NO e DO excel
+RPA - Robotic Process Automation de dados NO e DO google-sheets
 
 Este projeto faz parte do curso de automações de navegadores da Comunidade Web Automation - [CWA](https://pedropachecodev.com.br/)
 
@@ -55,8 +55,7 @@ Este projeto faz parte do curso de automações de navegadores da Comunidade Web
 The following tools were used in this project:
 
 - [Node.js](https://nodejs.org/en/)
-- [xlsx](https://www.npmjs.com/package/xlsx)
-- [sqlite3](https://www.npmjs.com/package/sqlite3)
+- [googleapis](https://www.npmjs.com/package/googleapis)
 
 ## :white_check_mark: Requirements ##
 
